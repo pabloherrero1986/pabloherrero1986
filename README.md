@@ -40,6 +40,6 @@
 ![GitHub release](https://img.shields.io/badge/Python-red) 
 ![GitHub release](https://img.shields.io/badge/Android-red) 
 
-### My Git Stats
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<pablohs1986>&theme=<THEME_NAME>" />
+### 📈 My Git Stats
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=pablohs1986"/>
 
