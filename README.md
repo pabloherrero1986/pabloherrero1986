@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 -->
 
 
-👋 Hi! I'm a developer and audiovisual producer.
+## Hi 👋 
+# I'm a developer and audiovisual producer.
 
 I learned to code in 2019 when I started my studies on development. I'm confortable using Java, SQL, HTML5, CSS3, Bootstrap 4 and GIT, although I'm always digging deep and learning new things. 
 
