@@ -6,11 +6,11 @@
 <a href="https://www.linkedin.com/in/pabloherrero1986/"><img height="30" src="https://github.com/pablohs1986/pablohs1986/blob/master/linkedin.png"></a>
 </p>
 
-### 👋 Hi! I'm a developer and audiovisual producer
+### 👋 Hi! I'm a developer and audiovisual producer.
 
  I learned to code in 2019 when I started my studies on development. Here you can take a look at my projects and drop me a line if you wish.
 
-### 🧰 Technologies & Tools
+### 🧰 Technologies & Tools:
 ![GitHub release](https://img.shields.io/badge/Java-brightgreen) 
 ![GitHub release](https://img.shields.io/badge/SQL-brightgreen) 
 ![GitHub release](https://img.shields.io/badge/XML-brightgreen) 
@@ -33,7 +33,7 @@
 ![GitHub release](https://img.shields.io/badge/Canva-purple) 
 ![GitHub release](https://img.shields.io/badge/GIMP2-purple) 
 
-### 📖 I'm currently learning
+### 📖 I'm currently learning:
 ![GitHub release](https://img.shields.io/badge/JDBC-red) 
 ![GitHub release](https://img.shields.io/badge/Swing-red) 
 ![GitHub release](https://img.shields.io/badge/JavaScript-red) 
@@ -42,7 +42,7 @@
 ![GitHub release](https://img.shields.io/badge/Python-red) 
 ![GitHub release](https://img.shields.io/badge/Android-red) 
 
-### 📈 My Git Stats
+### 📈 My Git Stats:
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=pablohs1986&show_icons=true&theme=dracula"/>
 
 
