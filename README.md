@@ -5,27 +5,40 @@
 <a href="https://www.linkedin.com/in/pabloherrero1986/"><img height="30" src="https://github.com/pablohs1986/pablohs1986/blob/master/linkedin.png"></a>
 </p>
 
-<!--
-**pablohs1986/pablohs1986** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi! I'm a developer and audiovisual producer
 
-Here are some ideas to get you started:
+## I learned to code in 2019 when I started my studies on development. Here you can take a look at my projects and drop me a line if you wish.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🧰 Technologies & Tools
+## Languages: 
+![GitHub release](https://img.shields.io/badge/☕-Java-red) 
+![GitHub release](https://img.shields.io/badge/☕-SQL-red) 
+![GitHub release](https://img.shields.io/badge/☕-XML-red) 
+![GitHub release](https://img.shields.io/badge/☕-HTML5-red) 
+![GitHub release](https://img.shields.io/badge/☕-CSS3-red)
+![GitHub release](https://img.shields.io/badge/☕-Bootstrap4-red) 
+
+## Editors
+![GitHub release](https://img.shields.io/badge/☕-IntelliJ Idea-red) 
+![GitHub release](https://img.shields.io/badge/☕-PyCharm-red) 
+![GitHub release](https://img.shields.io/badge/☕-NetBeans-red) 
+![GitHub release](https://img.shields.io/badge/☕-VSCode-red) 
+
+![GitHub release](https://img.shields.io/badge/☕-Oracle-red) 
+![GitHub release](https://img.shields.io/badge/☕-MySQL-red) 
 
 
-## Hi 👋 
-# I'm a developer and audiovisual producer.
+![GitHub release](https://img.shields.io/badge/☕-Git-red) 
 
-I learned to code in 2019 when I started my studies on development. I'm confortable using Java, SQL, HTML5, CSS3, Bootstrap 4 and GIT, although I'm always digging deep and learning new things. 
+![GitHub license](https://img.shields.io/badge/license-MIT-blue)
+I'm confortable using Java, SQL, HTML5, CSS3, Bootstrap 4 and GIT, although I'm always digging deep and learning new things. 
 
-🔭 I'm currently learning JDBC, Swing, JavaScript, TypeScript, Angular, Python and will start soon with Android Studio.
+# 📖 I'm currently learning
+![GitHub release](https://img.shields.io/badge/☕-JDBC-red) 
+![GitHub release](https://img.shields.io/badge/☕-Swing-red) 
+![GitHub release](https://img.shields.io/badge/☕-JavaScript-red) 
+![GitHub release](https://img.shields.io/badge/☕-TypeScript-red) 
+![GitHub release](https://img.shields.io/badge/☕-Angular-red) 
+![GitHub release](https://img.shields.io/badge/☕-Python-red) 
+![GitHub release](https://img.shields.io/badge/☕-Android-red) 
 
-Here you can take a look at my projects and drop me a line with the contact form if you wish.
