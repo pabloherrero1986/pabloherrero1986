@@ -42,7 +42,7 @@
 ![GitHub release](https://img.shields.io/badge/Python-red) 
 ![GitHub release](https://img.shields.io/badge/Android-red) 
 
-### 📈 My Git Stats:
+### 📈 My GitHub stats:
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=pablohs1986&show_icons=true&theme=dracula"/>
 
 
