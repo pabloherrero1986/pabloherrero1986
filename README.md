@@ -41,7 +41,6 @@
 ![GitHub release](https://img.shields.io/badge/Android-red) 
 
 ### 📈 My Git Stats
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=pablohs1986&show_icons=true&theme=dracula"/> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablohs1986&show_icons=true&theme=dracula"/>
-
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=pablohs1986&show_icons=true&theme=dracula"/>
 
 
