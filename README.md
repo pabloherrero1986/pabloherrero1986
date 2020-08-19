@@ -21,9 +21,10 @@
 ![GitHub release](https://img.shields.io/badge/IntelliJ_Idea-blue) 
 ![GitHub release](https://img.shields.io/badge/PyCharm-blue) 
 ![GitHub release](https://img.shields.io/badge/NetBeans-blue) 
+![GitHub release](https://img.shields.io/badge/AndroidStudio-blue) 
 ![GitHub release](https://img.shields.io/badge/VSCode-blue) 
 
-![GitHub release](https://img.shields.io/badge/Oracle-orange) 
+![GitHub release](https://img.shields.io/badge/SQLDeveloper-orange) 
 ![GitHub release](https://img.shields.io/badge/MySQL-orange) 
 
 ![GitHub release](https://img.shields.io/badge/Git-black) 
