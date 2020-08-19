@@ -17,7 +17,7 @@
 ![GitHub release](https://img.shields.io/badge/CSS3-brightgreen)
 ![GitHub release](https://img.shields.io/badge/Bootstrap4-brightgreen) 
 
-![GitHub release](https://img.shields.io/badge/IntelliJ Idea-blue) 
+![GitHub release](https://img.shields.io/badge/IntelliJ_Idea-blue) 
 ![GitHub release](https://img.shields.io/badge/PyCharm-blue) 
 ![GitHub release](https://img.shields.io/badge/NetBeans-blue) 
 ![GitHub release](https://img.shields.io/badge/VSCode-blue) 
@@ -32,11 +32,13 @@
 ![GitHub release](https://img.shields.io/badge/GIMP2-purple) 
 
 ## 📖 I'm currently learning
-![GitHub release](https://img.shields.io/badge/☕-JDBC-red) 
-![GitHub release](https://img.shields.io/badge/☕-Swing-red) 
-![GitHub release](https://img.shields.io/badge/☕-JavaScript-red) 
-![GitHub release](https://img.shields.io/badge/☕-TypeScript-red) 
-![GitHub release](https://img.shields.io/badge/☕-Angular-red) 
-![GitHub release](https://img.shields.io/badge/☕-Python-red) 
-![GitHub release](https://img.shields.io/badge/☕-Android-red) 
+![GitHub release](https://img.shields.io/badge/JDBC-red) 
+![GitHub release](https://img.shields.io/badge/Swing-red) 
+![GitHub release](https://img.shields.io/badge/JavaScript-red) 
+![GitHub release](https://img.shields.io/badge/TypeScript-red) 
+![GitHub release](https://img.shields.io/badge/Angular-red) 
+![GitHub release](https://img.shields.io/badge/Python-red) 
+![GitHub release](https://img.shields.io/badge/Android-red) 
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pablohs1986)](https://github.com/anuraghazra/github-readme-stats)
 
