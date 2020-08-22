@@ -34,9 +34,9 @@
 
 ![TOOLS](https://img.shields.io/badge/Git-blue?style=for-the-badge&logo=Git)
 
-![DESIGN](https://img.shields.io/badge/Figma-gray?style=for-the-badge&logo=Figma)
-![DESIGN](https://img.shields.io/badge/Canva-gray?style=for-the-badge&logo=Canva)
-![DESIGN](https://img.shields.io/badge/GIMP2-gray?style=for-the-badge&logo=GIMP)
+![DESIGN](https://img.shields.io/badge/Figma-blue?style=for-the-badge&logo=Figma)
+![DESIGN](https://img.shields.io/badge/Canva-blue?style=for-the-badge&logo=Canva)
+![DESIGN](https://img.shields.io/badge/GIMP2-blue?style=for-the-badge&logo=GIMP)
 
 
 ## 📖 Currently learning
