@@ -13,40 +13,40 @@
 
 ## 🧰 My skills
 #### Languages:
-![LANGUAGES](https://img.shields.io/badge/Java-brightgreen?style=for-the-badge&logo=Java)
-![LANGUAGES](https://img.shields.io/badge/SQL-brightgreen?style=for-the-badge&logo=SQL)
-![LANGUAGES](https://img.shields.io/badge/XML-brightgreen?style=for-the-badge&logo=XML)
-![LANGUAGES](https://img.shields.io/badge/HTML5-brightgreen?style=for-the-badge&logo=HTML5)
-![LANGUAGES](https://img.shields.io/badge/CSS3-brightgreen?style=for-the-badge&logo=CSS3)
+![LANGUAGES](https://img.shields.io/badge/Java-brightgreen?style=flat-square&logo=Java)
+![LANGUAGES](https://img.shields.io/badge/SQL-brightgreen?style=flat-square&logo=SQL)
+![LANGUAGES](https://img.shields.io/badge/XML-brightgreen?style=flat-square&logo=XML)
+![LANGUAGES](https://img.shields.io/badge/HTML5-brightgreen?style=flat-square&logo=HTML5)
+![LANGUAGES](https://img.shields.io/badge/CSS3-brightgreen?style=flat-square&logo=CSS3)
 
 #### Frameworks:
-![FRAMEWORKS](https://img.shields.io/badge/Bootstrap4-purple?style=for-the-badge&logo=Bootstrap)
+![FRAMEWORKS](https://img.shields.io/badge/Bootstrap4-purple?style=flat-square&logo=Bootstrap)
 
 #### Tools:
-![IDE&EDITORS](https://img.shields.io/badge/IntelliJ_Idea-blue?style=for-the-badge&logo=IntelliJ-IDEA)
-![IDE&EDITORS](https://img.shields.io/badge/PyCharm-blue?style=for-the-badge&logo=PyCharm)
-![IDE&EDITORS](https://img.shields.io/badge/NetBeans-blue?style=for-the-badge&logo=Apache-NetBeans-IDE)
-![IDE&EDITORS](https://img.shields.io/badge/Android_Studio-blue?style=for-the-badge&logo=Android-Studio)
-![IDE&EDITORS](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=Visual-Studio-Code)
+![IDE&EDITORS](https://img.shields.io/badge/IntelliJ_Idea-blue?style=flat-square&logo=IntelliJ-IDEA)
+![IDE&EDITORS](https://img.shields.io/badge/PyCharm-blue?style=flat-square&logo=PyCharm)
+![IDE&EDITORS](https://img.shields.io/badge/NetBeans-blue?style=flat-square&logo=Apache-NetBeans-IDE)
+![IDE&EDITORS](https://img.shields.io/badge/Android_Studio-blue?style=flat-square&logo=Android-Studio)
+![IDE&EDITORS](https://img.shields.io/badge/VSCode-blue?style=flat-square&logo=Visual-Studio-Code)
 
-![DATABASES](https://img.shields.io/badge/SQL_Developer-blue?style=for-the-badge&logo=Oracle)
-![DATABASES](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=MySQL)
+![DATABASES](https://img.shields.io/badge/SQL_Developer-blue?style=flat-square&logo=Oracle)
+![DATABASES](https://img.shields.io/badge/MySQL-blue?style=flat-square&logo=MySQL)
 
-![TOOLS](https://img.shields.io/badge/Git-blue?style=for-the-badge&logo=Git)
+![TOOLS](https://img.shields.io/badge/Git-blue?style=flat-square&logo=Git)
 
-![DESIGN](https://img.shields.io/badge/Figma-blue?style=for-the-badge&logo=Figma)
-![DESIGN](https://img.shields.io/badge/Canva-blue?style=for-the-badge&logo=Canva)
-![DESIGN](https://img.shields.io/badge/GIMP2-blue?style=for-the-badge&logo=GIMP)
+![DESIGN](https://img.shields.io/badge/Figma-blue?style=flat-square&logo=Figma)
+![DESIGN](https://img.shields.io/badge/Canva-blue?style=flat-square&logo=Canva)
+![DESIGN](https://img.shields.io/badge/GIMP2-blue?style=flat-square&logo=GIMP)
 
 
 ## 📖 Currently learning
-![LANGUAGES](https://img.shields.io/badge/JDBC-red?style=for-the-badge&logo=Java) 
-![LANGUAGES](https://img.shields.io/badge/Swing-red?style=for-the-badge&logo=Java) 
-![LANGUAGES](https://img.shields.io/badge/JavaScript-red?style=for-the-badge&logo=JavaScript) 
-![LANGUAGES](https://img.shields.io/badge/TypeScript-red?style=for-the-badge&logo=TypeScript) 
-![DESIGN](https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=Angular) 
-![LANGUAGES](https://img.shields.io/badge/Python-red?style=for-the-badge&logo=Python) 
-![LANGUAGES](https://img.shields.io/badge/Android-red?style=for-the-badge&logo=Android) 
+![LANGUAGES](https://img.shields.io/badge/JDBC-red?style=flat-square&logo=Java) 
+![LANGUAGES](https://img.shields.io/badge/Swing-red?style=flat-square&logo=Java) 
+![LANGUAGES](https://img.shields.io/badge/JavaScript-red?style=flat-square&logo=JavaScript) 
+![LANGUAGES](https://img.shields.io/badge/TypeScript-red?style=flat-square&logo=TypeScript) 
+![DESIGN](https://img.shields.io/badge/Angular-red?style=flat-square&logo=Angular) 
+![LANGUAGES](https://img.shields.io/badge/Python-red?style=flat-square&logo=Python) 
+![LANGUAGES](https://img.shields.io/badge/Android-red?style=flat-square&logo=Android) 
 
 ## 📈 My GitHub stats
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=pablohs1986&show_icons=true&theme=dracula&count_private=true&show_icons=true&hide_title=true"/>
