@@ -12,36 +12,38 @@
  I learned to code in 2019 when I started my studies on development. Here you can take a look at my projects and drop me a line if you wish.
 
 ### 🧰 Technologies & Tools:
-![GitHub release](https://img.shields.io/badge/Java-brightgreen) 
-![GitHub release](https://img.shields.io/badge/SQL-brightgreen) 
-![GitHub release](https://img.shields.io/badge/XML-brightgreen) 
-![GitHub release](https://img.shields.io/badge/HTML5-brightgreen) 
-![GitHub release](https://img.shields.io/badge/CSS3-brightgreen)
-![GitHub release](https://img.shields.io/badge/Bootstrap4-brightgreen) 
+![LANGUAGES](https://img.shields.io/badge/Java-brightgreen?style=for-the-badge&logo=Java)
+![LANGUAGES](https://img.shields.io/badge/SQL-brightgreen?style=for-the-badge&logo=SQL)
+![LANGUAGES](https://img.shields.io/badge/XML-brightgreen?style=for-the-badge&logo=XML)
+![LANGUAGES](https://img.shields.io/badge/HTML5-brightgreen?style=for-the-badge&logo=HTML5)
+![LANGUAGES](https://img.shields.io/badge/CSS3-brightgreen?style=for-the-badge&logo=CSS3)
 
-![GitHub release](https://img.shields.io/badge/IntelliJ_Idea-blue) 
-![GitHub release](https://img.shields.io/badge/PyCharm-blue) 
-![GitHub release](https://img.shields.io/badge/NetBeans-blue) 
-![GitHub release](https://img.shields.io/badge/Android_Studio-blue) 
-![GitHub release](https://img.shields.io/badge/VSCode-blue) 
+![FRAMEWORKS](https://img.shields.io/badge/Bootstrap4-purple?style=for-the-badge&logo=Bootstrap)
 
-![GitHub release](https://img.shields.io/badge/SQLDeveloper-orange) 
-![GitHub release](https://img.shields.io/badge/MySQL-orange) 
+![IDE&EDITORS](https://img.shields.io/badge/IntelliJ_Idea-blue?style=for-the-badge&logo=IntelliJ-IDEA)
+![IDE&EDITORS](https://img.shields.io/badge/PyCharm-blue?style=for-the-badge&logo=PyCharm)
+![IDE&EDITORS](https://img.shields.io/badge/NetBeans-blue?style=for-the-badge&logo=Apache-NetBeans-IDE)
+![IDE&EDITORS](https://img.shields.io/badge/Android_Studio-blue?style=for-the-badge&logo=Android-Studio)
+![IDE&EDITORS](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=Visual-Studio-Code)
 
-![GitHub release](https://img.shields.io/badge/Git-black) 
+![DATABASES](https://img.shields.io/badge/SQLDeveloper-orange?style=for-the-badge&logo=Visual-Studio-Code)
+![DATABASES](https://img.shields.io/badge/MySQL-orange?style=for-the-badge&logo=Oracle)
 
-![GitHub release](https://img.shields.io/badge/Figma-purple) 
-![GitHub release](https://img.shields.io/badge/Canva-purple) 
-![GitHub release](https://img.shields.io/badge/GIMP2-purple) 
+![TOOLS](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=Git)
+
+![DESIGN](https://img.shields.io/badge/Figma-gray?style=for-the-badge&logo=Figma)
+![DESIGN](https://img.shields.io/badge/Canva-gray?style=for-the-badge&logo=Canva)
+![DESIGN](https://img.shields.io/badge/GIMP2-gray?style=for-the-badge&logo=GIMP)
+
 
 ### 📖 I'm currently learning:
-![GitHub release](https://img.shields.io/badge/JDBC-red) 
-![GitHub release](https://img.shields.io/badge/Swing-red) 
-![GitHub release](https://img.shields.io/badge/JavaScript-red) 
-![GitHub release](https://img.shields.io/badge/TypeScript-red) 
-![GitHub release](https://img.shields.io/badge/Angular-red) 
-![GitHub release](https://img.shields.io/badge/Python-red) 
-![GitHub release](https://img.shields.io/badge/Android-red) 
+![LANGUAGES](https://img.shields.io/badge/JDBC-red?style=for-the-badge&logo=Java) 
+![LANGUAGES](https://img.shields.io/badge/Swing-red?style=for-the-badge&logo=Java) 
+![LANGUAGES](https://img.shields.io/badge/JavaScript-red?style=for-the-badge&logo=JavaScript) 
+![LANGUAGES](https://img.shields.io/badge/TypeScript-red?style=for-the-badge&logo=TypeScript) 
+![DESIGN](https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=Angular) 
+![LANGUAGES](https://img.shields.io/badge/Python-red?style=for-the-badge&logo=Python) 
+![LANGUAGES](https://img.shields.io/badge/Android-red?style=for-the-badge&logo=Andoid) 
 
 ### 📈 My GitHub stats:
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=pablohs1986&show_icons=true&theme=dracula&count_private=true&show_icons=true&hide_title=true"/>
