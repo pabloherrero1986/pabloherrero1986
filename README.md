@@ -26,7 +26,7 @@
 ![IDE&EDITORS](https://img.shields.io/badge/Android_Studio-blue?style=for-the-badge&logo=Android-Studio)
 ![IDE&EDITORS](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=Visual-Studio-Code)
 
-![DATABASES](https://img.shields.io/badge/SQLDeveloper-orange?style=for-the-badge&logo=Oracle)
+![DATABASES](https://img.shields.io/badge/SQL_Developer-orange?style=for-the-badge&logo=Oracle)
 ![DATABASES](https://img.shields.io/badge/MySQL-orange?style=for-the-badge&logo=MySQL)
 
 ![TOOLS](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=Git)
