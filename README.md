@@ -43,7 +43,7 @@
 ![LANGUAGES](https://img.shields.io/badge/TypeScript-red?style=for-the-badge&logo=TypeScript) 
 ![DESIGN](https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=Angular) 
 ![LANGUAGES](https://img.shields.io/badge/Python-red?style=for-the-badge&logo=Python) 
-![LANGUAGES](https://img.shields.io/badge/Android-red?style=for-the-badge&logo=Andoid) 
+![LANGUAGES](https://img.shields.io/badge/Android-red?style=for-the-badge&logo=Android) 
 
 ### 📈 My GitHub stats:
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=pablohs1986&show_icons=true&theme=dracula&count_private=true&show_icons=true&hide_title=true"/>
