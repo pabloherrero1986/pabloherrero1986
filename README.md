@@ -13,26 +13,26 @@
 
 ## 🧰 My skills:
 #### Languages
-![LANGUAGES](https://img.shields.io/badge/Java-brightgreen?style=for-the-badge&logo=Java)
-![LANGUAGES](https://img.shields.io/badge/SQL-brightgreen?style=for-the-badge&logo=SQL)
-![LANGUAGES](https://img.shields.io/badge/XML-brightgreen?style=for-the-badge&logo=XML)
-![LANGUAGES](https://img.shields.io/badge/HTML5-brightgreen?style=for-the-badge&logo=HTML5)
-![LANGUAGES](https://img.shields.io/badge/CSS3-brightgreen?style=for-the-badge&logo=CSS3)
+![LANGUAGES](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=Java)
+![LANGUAGES](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=SQL)
+![LANGUAGES](https://img.shields.io/badge/XML-black?style=for-the-badge&logo=XML)
+![LANGUAGES](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=HTML5)
+![LANGUAGES](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=CSS3)
 
 #### Frameworks
-![FRAMEWORKS](https://img.shields.io/badge/Bootstrap4-purple?style=for-the-badge&logo=Bootstrap)
+![FRAMEWORKS](https://img.shields.io/badge/Bootstrap4-black?style=for-the-badge&logo=Bootstrap)
 
 #### Tools
-![IDE&EDITORS](https://img.shields.io/badge/IntelliJ_Idea-blue?style=for-the-badge&logo=IntelliJ-IDEA)
-![IDE&EDITORS](https://img.shields.io/badge/PyCharm-blue?style=for-the-badge&logo=PyCharm)
-![IDE&EDITORS](https://img.shields.io/badge/NetBeans-blue?style=for-the-badge&logo=Apache-NetBeans-IDE)
-![IDE&EDITORS](https://img.shields.io/badge/Android_Studio-blue?style=for-the-badge&logo=Android-Studio)
-![IDE&EDITORS](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=Visual-Studio-Code)
+![IDE&EDITORS](https://img.shields.io/badge/IntelliJ_Idea-gray?style=for-the-badge&logo=IntelliJ-IDEA)
+![IDE&EDITORS](https://img.shields.io/badge/PyCharm-gray?style=for-the-badge&logo=PyCharm)
+![IDE&EDITORS](https://img.shields.io/badge/NetBeans-gray?style=for-the-badge&logo=Apache-NetBeans-IDE)
+![IDE&EDITORS](https://img.shields.io/badge/Android_Studio-gray?style=for-the-badge&logo=Android-Studio)
+![IDE&EDITORS](https://img.shields.io/badge/VSCode-gray?style=for-the-badge&logo=Visual-Studio-Code)
 
-![DATABASES](https://img.shields.io/badge/SQL_Developer-orange?style=for-the-badge&logo=Oracle)
-![DATABASES](https://img.shields.io/badge/MySQL-orange?style=for-the-badge&logo=MySQL)
+![DATABASES](https://img.shields.io/badge/SQL_Developer-gray?style=for-the-badge&logo=Oracle)
+![DATABASES](https://img.shields.io/badge/MySQL-gray?style=for-the-badge&logo=MySQL)
 
-![TOOLS](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=Git)
+![TOOLS](https://img.shields.io/badge/Git-gray?style=for-the-badge&logo=Git)
 
 ![DESIGN](https://img.shields.io/badge/Figma-gray?style=for-the-badge&logo=Figma)
 ![DESIGN](https://img.shields.io/badge/Canva-gray?style=for-the-badge&logo=Canva)
