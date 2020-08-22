@@ -11,18 +11,15 @@
 
  I learned to code in 2019 when I started my studies on development. Here you can take a look at my projects and drop me a line if you wish.
 
-## 🧰 My skills
-#### Languages:
+## 🧰 Languages & Tools
 ![LANGUAGES](https://img.shields.io/badge/Java-brightgreen?style=flat-square&logo=Java)
 ![LANGUAGES](https://img.shields.io/badge/SQL-brightgreen?style=flat-square&logo=SQL)
 ![LANGUAGES](https://img.shields.io/badge/XML-brightgreen?style=flat-square&logo=XML)
 ![LANGUAGES](https://img.shields.io/badge/HTML5-brightgreen?style=flat-square&logo=HTML5)
 ![LANGUAGES](https://img.shields.io/badge/CSS3-brightgreen?style=flat-square&logo=CSS3)
 
-#### Frameworks:
 ![FRAMEWORKS](https://img.shields.io/badge/Bootstrap4-purple?style=flat-square&logo=Bootstrap)
 
-#### Tools:
 ![IDE&EDITORS](https://img.shields.io/badge/IntelliJ_Idea-blue?style=flat-square&logo=IntelliJ-IDEA)
 ![IDE&EDITORS](https://img.shields.io/badge/PyCharm-blue?style=flat-square&logo=PyCharm)
 ![IDE&EDITORS](https://img.shields.io/badge/NetBeans-blue?style=flat-square&logo=Apache-NetBeans-IDE)
