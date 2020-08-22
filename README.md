@@ -29,14 +29,14 @@
 ![IDE&EDITORS](https://img.shields.io/badge/Android_Studio-blue?style=flat-square&logo=Android-Studio)
 ![IDE&EDITORS](https://img.shields.io/badge/VSCode-blue?style=flat-square&logo=Visual-Studio-Code)
 
-![DATABASES](https://img.shields.io/badge/SQL_Developer-blue?style=flat-square&logo=Oracle)
-![DATABASES](https://img.shields.io/badge/MySQL-blue?style=flat-square&logo=MySQL)
+![DATABASES](https://img.shields.io/badge/SQL_Developer-lightgrey?style=flat-square&logo=Oracle)
+![DATABASES](https://img.shields.io/badge/MySQL-lightgrey?style=flat-square&logo=MySQL)
 
-![TOOLS](https://img.shields.io/badge/Git-blue?style=flat-square&logo=Git)
+![TOOLS](https://img.shields.io/badge/Git-black?style=flat-square&logo=Git)
 
-![DESIGN](https://img.shields.io/badge/Figma-blue?style=flat-square&logo=Figma)
-![DESIGN](https://img.shields.io/badge/Canva-blue?style=flat-square&logo=Canva)
-![DESIGN](https://img.shields.io/badge/GIMP2-blue?style=flat-square&logo=GIMP)
+![DESIGN](https://img.shields.io/badge/Figma-9cf?style=flat-square&logo=Figma)
+![DESIGN](https://img.shields.io/badge/Canva-9cf?style=flat-square&logo=Canva)
+![DESIGN](https://img.shields.io/badge/GIMP2-9cf?style=flat-square&logo=GIMP)
 
 
 ## 📖 Currently learning
