@@ -11,14 +11,14 @@
 
  I learned to code in 2019 when I started my studies on development. Here you can take a look at my projects and drop me a line if you wish.
 
-## 🧰 Languages
+## 👅 Languages
 <div><a href="#"><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/java.png"/></a>
 <a href="#"><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/icons8-sql-50.png"/></a>
 <a href="#"><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/icons8-xml-50.png"/></a>
 <a href="#"><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/icons8-html-5-48.png"/></a>
 <a href="#"><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/icons8-css3-48.png"/></a><div>
 
-## 🧰 Frameworks
+## ⚙️ Frameworks
 <a href="#"><div><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/icons8-bootstrap-48.png"/></a></div>
 
 ## 🧰 Tools
