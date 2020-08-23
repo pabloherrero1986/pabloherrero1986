@@ -11,39 +11,40 @@
 
  I learned to code in 2019 when I started my studies on development. Here you can take a look at my projects and drop me a line if you wish.
 
-## 🧰 Languages & Tools
-![LANGUAGES](https://img.shields.io/badge/Java-brightgreen?style=flat-square&logo=Java)
-![LANGUAGES](https://img.shields.io/badge/SQL-brightgreen?style=flat-square&logo=SQL)
-![LANGUAGES](https://img.shields.io/badge/XML-brightgreen?style=flat-square&logo=XML)
-![LANGUAGES](https://img.shields.io/badge/HTML5-brightgreen?style=flat-square&logo=HTML5)
-![LANGUAGES](https://img.shields.io/badge/CSS3-brightgreen?style=flat-square&logo=CSS3)
+## 🧰 Languages
+<code><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/java.png"/></code>
+<code><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/icons8-sql-50.png"/></code>
+<code><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/icons8-xml-50.png"/></code>
+<code><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/icons8-html-5-48.png"/></code>
+<code><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/icons8-css3-48.png"/></code>
 
-![FRAMEWORKS](https://img.shields.io/badge/Bootstrap4-purple?style=flat-square&logo=Bootstrap)
+## 🧰 Frameworks
+<code><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/icons8-bootstrap-48.png"/></code>
 
-![IDE&EDITORS](https://img.shields.io/badge/IntelliJ_Idea-blue?style=flat-square&logo=IntelliJ-IDEA)
-![IDE&EDITORS](https://img.shields.io/badge/PyCharm-blue?style=flat-square&logo=PyCharm)
-![IDE&EDITORS](https://img.shields.io/badge/NetBeans-blue?style=flat-square&logo=Apache-NetBeans-IDE)
-![IDE&EDITORS](https://img.shields.io/badge/Android_Studio-blue?style=flat-square&logo=Android-Studio)
-![IDE&EDITORS](https://img.shields.io/badge/VSCode-blue?style=flat-square&logo=Visual-Studio-Code)
+## 🧰 Tools
+<code><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/icons8-intellij-idea-48.png"/></code>
+<code><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/icons8-pycharm-48.png"/></code>
+<code><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/icons8-netbeans-64.png"/></code>
+<code><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/icons8-android-os-48.png"/></code>
+<code><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/icons8-visual-studio-code-2019-96.png"/></code>
 
-![DATABASES](https://img.shields.io/badge/SQL_Developer-lightgrey?style=flat-square&logo=Oracle)
-![DATABASES](https://img.shields.io/badge/MySQL-lightgrey?style=flat-square&logo=MySQL)
+<code><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/sqlDeveloper.png"/></code>
+<code><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/icons8-mysql-logo-100.png"/></code>
 
-![TOOLS](https://img.shields.io/badge/Git-black?style=flat-square&logo=Git)
+<code><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/icons8-git-96.png"/></code>
 
-![DESIGN](https://img.shields.io/badge/Figma-9cf?style=flat-square&logo=Figma)
-![DESIGN](https://img.shields.io/badge/Canva-9cf?style=flat-square&logo=Canva)
-![DESIGN](https://img.shields.io/badge/GIMP2-9cf?style=flat-square&logo=GIMP)
-
+<code><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/icons8-figma-64.png"/></code>
+<code><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/icons8-canva-100.png"/></code>
+<code><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/icons8-gimp-48.png"/></code>
 
 ## 📖 Currently learning
-![LANGUAGES](https://img.shields.io/badge/JDBC-red?style=flat-square&logo=Java) 
-![LANGUAGES](https://img.shields.io/badge/Swing-red?style=flat-square&logo=Java) 
-![LANGUAGES](https://img.shields.io/badge/JavaScript-red?style=flat-square&logo=JavaScript) 
-![LANGUAGES](https://img.shields.io/badge/TypeScript-red?style=flat-square&logo=TypeScript) 
-![DESIGN](https://img.shields.io/badge/Angular-red?style=flat-square&logo=Angular) 
-![LANGUAGES](https://img.shields.io/badge/Python-red?style=flat-square&logo=Python) 
-![LANGUAGES](https://img.shields.io/badge/Android-red?style=flat-square&logo=Android) 
+<code><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/jdbc.png"/></code>
+<code><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/swing.png"/></code>
+<code><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/icons8-javascript-48.png"/></code>
+<code><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/icons8-typescript-48.png"/></code>
+<code><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/angular.png"/></code>
+<code><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/icons8-python-48.png"/></code>
+<code><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/icons8-android-os-48.png"/></code>
 
 ## 📈 My GitHub stats
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=pablohs1986&show_icons=true&theme=dracula&count_private=true&show_icons=true&hide_title=true"/>
