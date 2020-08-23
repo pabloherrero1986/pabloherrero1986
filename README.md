@@ -25,7 +25,7 @@
 <code><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/icons8-intellij-idea-48.png"/></code>
 <code><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/icons8-pycharm-48.png"/></code>
 <code><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/icons8-netbeans-64.png"/></code>
-<code><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/icons8-android-os-48.png"/></code>
+<code><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/Android_Studio_icon.png"/></code>
 <code><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/icons8-visual-studio-code-2019-96.png"/></code>
 
 <code><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/sqlDeveloper.png"/></code>
