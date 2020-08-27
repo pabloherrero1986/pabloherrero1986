@@ -23,17 +23,14 @@
 <div><a href="#"><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/icons8-intellij-idea-48.png"/></a>
 <a href="#"><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/icons8-pycharm-48.png"/></a>
 <a href="#"><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/icons8-netbeans-64.png"/></a>
-<a href="#"><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/icons8-visual-studio-code-2019-96.png"/></a></div>
-
-<div><a href="#"><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/Oracle_SQL_Developer_logo.svg.png"/></a>
-<a href="#"><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/icons8-mysql-logo-50.png"/></a></div>
-
-<div><a href="#"><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/icons8-console-48.png"/></a>
+<a href="#"><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/icons8-visual-studio-code-2019-96.png"/></a>
+<a href="#"><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/Oracle_SQL_Developer_logo.svg.png"/></a>
+<a href="#"><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/icons8-mysql-logo-50.png"/></a>
+<a href="#"><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/icons8-console-48.png"/></a>
 <a href="#"><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/icons8-npm-48.png"/></a>
 <a href="#"><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/icons8-git.png"/></a>
-<a href="#"><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/icons8-gitkraken-64.png"/></a></div>
-
-<div><a href="#"><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/icons8-figma.png"/></a>
+<a href="#"><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/icons8-gitkraken-64.png"/></a>
+<a href="#"><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/icons8-figma.png"/></a>
 <a href="#"><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/icons8-canva.png"/></a>
 <a href="#"><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/icons8-gimp.png"/></a></div>
 
