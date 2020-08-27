@@ -47,6 +47,7 @@
 
 ## 📈&nbsp;My GitHub stats
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=pablohs1986&show_icons=true&theme=dracula&count_private=true&show_icons=true&hide_title=true"/>
+<a href="https://github.com/pablohs1986"> <img src="https://komarev.com/ghpvc/?username=pablohs1986&label=Profile+Views&color=2e8b57&style=flat" /></a>
 
 ## 💬&nbsp;Let's get in touch
 <p align='left'>
