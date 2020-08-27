@@ -4,6 +4,12 @@
 ## 👋&nbsp;Hi! I'm a developer and audiovisual producer
 
  I learned to code in 2019 when I started my studies on development. Here you can take a look at my projects and drop me a line if you wish.
+ 
+   - 👨‍💻&nbsp;I learned to code in 2019.
+   - 🎓&nbsp;I'm studying Multiplatform Application Development at <a href = "http://www.iesjuanjosecalvomiguel.es/index.php?option=com_content&view=article&id=92&Itemid=478"> IES Juan José Calvo Miguel </a>.
+  - 🎯&nbsp;I'm currently deepen and learning new languages.
+  - 🚀&nbsp;I've joined the <a href= "https://www.100daysofcode.com/"> #100DaysOfCode challenge</a>.![60%](https://progress-bar.dev/60)
+  - 💼&nbsp;Looking for my first job as a developer.
 
 ## 👅&nbsp;Languages
 <div><a href="#"><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/java.png"/></a>
