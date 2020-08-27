@@ -1,9 +1,9 @@
 # [![Header](https://github.com/pablohs1986/pablohs1986/blob/master/phGifGitWhite.gif "Header")](https://pabloherrero.me/)
 
 
-## 👋&nbsp;Hi! I'm a developer and audiovisual producer
+## 👋Hi! I'm a developer and audiovisual producer
  
-   - 👨‍💻&nbsp;I learned to code in 2019.
+   - 👨‍💻I learned to code in 2019.
    - 🎓&nbsp;I'm studying Multiplatform Application Development at <a href = "http://www.iesjuanjosecalvomiguel.es/index.php?option=com_content&view=article&id=92&Itemid=478"> IES Juan José Calvo Miguel </a>.
   - 🎯&nbsp;I'm currently deepen and learning new languages.
   - 🚀&nbsp;I've joined the <a href= "https://github.com/pablohs1986/100-days-of-code"> #100DaysOfCode Challenge</a>: ![Challenge status](https://img.shields.io/badge/DAY-1-GREEN).
