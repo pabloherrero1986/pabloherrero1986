@@ -54,7 +54,7 @@
 <p align='left'>
 <a href="https://pabloherrero.me/"><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/icons8-link-52.png"></a>&nbsp;&nbsp;
 <a href="https://dev.to/pablohs1986"><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/dev-badge.png"></a>&nbsp;&nbsp;
-<a href="https://stackoverflow.com/story/pabloherrero"><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/icons8-stack-overflow-96.png"></a>&nbsp;&nbsp;
+<a href="https://es.stackoverflow.com/users/149406/pablohs1986?tab=profile"><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/icons8-stack-overflow-96.png"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/pablohs1986/"><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/icons8-twitter-96.png"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/pabloherrero1986/"><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/icons8-linkedin-96.png"></a>
 </p>
