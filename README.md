@@ -17,7 +17,7 @@
 <a href="#"><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/icons8-css3-48.png"/></a><div>
 
 ## ⚙️&nbsp;Frameworks
-<div><a href="#"><div><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/icons8-bootstrap-48.png"/></a></div>
+<div><a href="#"><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/icons8-bootstrap-48.png"/></a></div>
 
 ## 🧰&nbsp;Tools
 <div><a href="#"><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/icons8-intellij-idea-48.png"/></a>
