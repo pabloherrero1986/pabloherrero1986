@@ -43,7 +43,8 @@
 <a href="#"><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/icons8-nodejs-96.png"/></a>
 <a href="#"><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/icons8-android-os-48.png"/></a>
 <a href="#"><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/64px-Android_Studio_icon.svg.png"/></a>
-<a href="#"><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/icons8-python-48.png"/></a></div>
+<a href="#"><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/icons8-python-48.png"/></a>
+<a href="#"><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/icons8-heroku-48.png"/></a></div>
 
 ## 📈&nbsp;My GitHub stats
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=pablohs1986&show_icons=true&theme=dracula&count_private=true&show_icons=true&hide_title=true"/>
