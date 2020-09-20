@@ -6,7 +6,7 @@
   - 👨‍💻&nbsp;I learned to code in 2019.
   - 🎓&nbsp;I'm studying Multiplatform Application Development at <a href = "http://www.iesjuanjosecalvomiguel.es/index.php?option=com_content&view=article&id=92&Itemid=478"> IES Juan José Calvo Miguel</a> (Asturias).
   - 🎯&nbsp;I'm currently deepen and learning new languages.
-  - 🚀&nbsp;I've joined the <a href= "https://github.com/pablohs1986/100-days-of-code"> #100DaysOfCode Challenge</a>: ![Challenge status](https://img.shields.io/badge/DAY-024-GREEN).
+  - 🚀&nbsp;I've joined the <a href= "https://github.com/pablohs1986/100-days-of-code"> #100DaysOfCode Challenge</a>: ![Challenge status](https://img.shields.io/badge/DAY-025-GREEN).
   - 💼&nbsp;Looking for my first job as a developer.
 
 ## 👅&nbsp;Languages
