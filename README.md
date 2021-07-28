@@ -1,14 +1,12 @@
-# [![Header](https://github.com/pablohs1986/pablohs1986/blob/master/ghPHheader.gif 'Header')](https://pabloherrero.me/)
-
-## 👋&nbsp;Hi! I'm a developer
+<h1>👋&nbsp;Hi! I'm a developer </h1>
 
 -   👨‍💻&nbsp;I learned to code in 2019.
 -   🎓&nbsp;I studied Cross-platform Application Development at <a href = "http://www.iesjuanjosecalvomiguel.es/index.php?option=com_content&view=article&id=92&Itemid=478"> IES Juan José Calvo Miguel</a> (Asturias).
--   🎯&nbsp;I'm currently deepen and learning new technologies, such as Dart and Flutter.
+-   💼&nbsp;Junior Developer at <a href= "https://vexiza.com/">Vexiza</a>.
+-   🎯&nbsp;I'm currently deepen and learning Vue.js, Spring and Flutter.
 -   🚀&nbsp;I completed the <a href= "https://github.com/pablohs1986/100-days-of-code"> #100DaysOfCode Challenge</a>.
--   💼&nbsp;Looking for my first job as a developer.
 
-## 👅&nbsp;Languages
+### 👅&nbsp;Languages
 
 <div><a href="#"><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/java.png"/></a>
 <a href="#"><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/icons8-javascript-48.png"/></a>
@@ -19,17 +17,16 @@
 <a href="#"><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/icons8-html-5-48.png"/></a>
 <a href="#"><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/icons8-css3-48.png"/></a><div>
 
-## ⚙️&nbsp;Frameworks
+### ⚙️&nbsp;Frameworks
 
 <div><a href="#"><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/angular_A.png"/></a>
 <a href="#"><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/react.png"/></a>
 <a href="#"><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/flutter.png"/></a>
 <a href="#"><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/icons8-android-os-48.png"/></a>
 <a href="#"><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/icons8-nodejs-96.png"/></a>
-<a href="#"><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/hibernate.png"/></a>
 <a href="#"><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/icons8-bootstrap-48.png"/></a></div>
 
-## 🗃️&nbsp;Databases
+### 🗃️&nbsp;Databases
 
 <div><a href="#"><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/Oracle_SQL_Developer_logo.svg.png"/></a>
 <a href="#"><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/icons8-mysql-logo-50.png"/></a>
@@ -37,7 +34,7 @@
 <a href="#"><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/mongodb.png"/></a>
 </div>
 
-## 🧰&nbsp;Tools
+### 🧰&nbsp;Tools
 
 <div><a href="#"><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/icons8-intellij-idea-48.png"/></a>
 <a href="#"><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/64px-Android_Studio_icon.svg.png"/></a>
@@ -53,19 +50,21 @@
 <a href="#"><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/icons8-canva.png"/></a>
 <a href="#"><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/icons8-gimp.png"/></a></div>
 
-## 📖&nbsp;Currently learning
+### 📖&nbsp;Currently learning
 
 <div>
+<a href="#"><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/vue.png"/></a>
+<a href="#"><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/spring.png"/></a>
 <a href="#"><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/dart.png"/></a>
 <a href="#"><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/flutter.png"/></a>
 
-## 📈&nbsp;My GitHub stats
+### 📈&nbsp;My GitHub stats
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=pablohs1986&show_icons=true&theme=dracula&count_private=true&show_icons=true&hide_title=true"/>
 
 <img src="https://komarev.com/ghpvc/?username=pablohs1986&label=Profile+Views&color=2e8b57&style=flat" /></a>
 
-## 💬&nbsp;Let's get in touch
+### 💬&nbsp;Let's get in touch
 
 <p align='left'>
 <a href="https://pabloherrero.me/"><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/icons8-link-52.png"></a>&nbsp;&nbsp;
