@@ -1,10 +1,10 @@
-<h1>👋&nbsp;Hi there! I'm Pablo Herrero </h1>
+<h1>Hello, World! I'm Pablo Herrero &nbsp;👋</h1>
 
-👨‍💻&nbsp;I learned to code in 2019.<br>
-🎓&nbsp;I studied Cross-platform Application Development at <a href = "http://www.iesjuanjosecalvomiguel.es/index.php?option=com_content&view=article&id=92&Itemid=478"> IES Juan José Calvo Miguel</a> (Asturias).<br>
-💼&nbsp;Junior Developer at <a href= "https://vexiza.com/">Vexiza</a>.<br>
-🎯&nbsp;I'm currently deepen and learning Vue.js, Spring and Flutter.<br>
-🚀&nbsp;I completed the <a href= "https://github.com/pablohs1986/100-days-of-code"> #100DaysOfCode Challenge</a>.
+&nbsp;👨‍💻&nbsp;I learned to code in 2019.<br>
+&nbsp;🎓&nbsp;I studied Cross-platform Application Development at <a href = "http://www.iesjuanjosecalvomiguel.es/index.php?option=com_content&view=article&id=92&Itemid=478"> IES Juan José Calvo Miguel</a> (Asturias).<br>
+&nbsp;💼&nbsp;Junior Developer at <a href= "https://vexiza.com/">Vexiza</a>.<br>
+&nbsp;🎯&nbsp;I'm currently deepen and learning Vue.js, Spring and Flutter.<br>
+&nbsp;🚀&nbsp;I completed the <a href= "https://github.com/pablohs1986/100-days-of-code"> #100DaysOfCode Challenge</a>.
 
 ### 👅&nbsp;Languages
 
