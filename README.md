@@ -1,6 +1,6 @@
 <h1>Hello, World! I'm Pablo Herrero&nbsp;👋</h1>
 
-&nbsp;💼&nbsp;Junior Developer at <a href= "https://vexiza.com/">Vexiza</a>.<br>
+&nbsp;💼&nbsp;Developer at <a href= "https://vexiza.com/">Vexiza</a>.<br>
 &nbsp;👨‍💻&nbsp;I learned to code in 2019.<br>
 &nbsp;🎓&nbsp;I studied Cross-platform Application Development at <a href = "http://www.iesjuanjosecalvomiguel.es/index.php?option=com_content&view=article&id=92&Itemid=478"> IES Juan José Calvo Miguel</a> (Asturias).<br>
 &nbsp;🎯&nbsp;I'm currently deepen and learning Vue.js, Spring, Flutter and Firebase.<br>
@@ -32,6 +32,7 @@
 <a href="#"><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/icons8-mysql-logo-50.png"/></a>
 <a href="#"><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/icons8-postgresql-48.png"/></a>
 <a href="#"><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/mongodb.png"/></a>
+<a href="#"><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/firebase.png"/></a>
 </div>
 
 ### 🧰&nbsp;Tools
