@@ -3,8 +3,8 @@
 &nbsp;💼&nbsp;Developer at <a href= "https://vexiza.com/">Vexiza</a>.<br>
 &nbsp;👨‍💻&nbsp;I learned to code in 2019.<br>
 &nbsp;🎓&nbsp;I studied Cross-platform Application Development at <a href = "http://www.iesjuanjosecalvomiguel.es/index.php?option=com_content&view=article&id=92&Itemid=478"> IES Juan José Calvo Miguel</a> (Asturias).<br>
-&nbsp;🎯&nbsp;I'm currently deepen and learning Vue.js, Spring, Flutter and Firebase.<br>
-&nbsp;🚀&nbsp;I completed the <a href= "https://github.com/pablohs1986/100-days-of-code"> #100DaysOfCode Challenge</a>.
+&nbsp;🎯&nbsp;I'm currently deepen and learning Vue.js and Python.<br>
+<!-- &nbsp;🚀&nbsp;I completed the <a href= "https://github.com/pablohs1986/100-days-of-code"> #100DaysOfCode Challenge</a>. -->
 
 ### 👅&nbsp;Languages
 
@@ -35,7 +35,7 @@
 <a href="#"><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/firebase.png"/></a>
 </div>
 
-### 🧰&nbsp;Tools
+<!-- ### 🧰&nbsp;Tools
 
 <div><a href="#"><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/icons8-intellij-idea-48.png"/></a>
 <a href="#"><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/64px-Android_Studio_icon.svg.png"/></a>
@@ -49,16 +49,14 @@
 <a href="#"><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/icons8-heroku-48.png"/></a>
 <a href="#"><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/icons8-figma.png"/></a>
 <a href="#"><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/icons8-canva.png"/></a>
-<a href="#"><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/icons8-gimp.png"/></a></div>
+<a href="#"><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/icons8-gimp.png"/></a></div> -->
 
 ### 📖&nbsp;Currently learning
 
 <div>
 <a href="#"><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/vue.png"/></a>
-<a href="#"><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/spring.png"/></a>
-<a href="#"><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/dart.png"/></a>
-<a href="#"><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/flutter.png"/></a>
-<a href="#"><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/firebase.png"/></a>
+<a href="#"><img height="40" src="https://github.com/pablohs1986/pablohs1986/blob/master/icons/py.png"/></a>
+
 
 ### 📈&nbsp;My GitHub stats
 
