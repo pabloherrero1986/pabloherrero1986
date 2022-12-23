@@ -3,7 +3,7 @@
 &nbsp;💼&nbsp;Developer at <a href= "https://www.hpecds.com/es/">HPE CDS</a>.<br>
 &nbsp;👨‍💻&nbsp;I learned to code in 2019.<br>
 &nbsp;🎓&nbsp;I studied Cross-platform Application Development at <a href = "http://www.iesjuanjosecalvomiguel.es/index.php?option=com_content&view=article&id=92&Itemid=478"> IES Juan José Calvo Miguel</a> (Asturias).<br>
-&nbsp;🎯&nbsp;I'm currently deepen and learning Vue.js, Spring and Docker.<br>
+&nbsp;🎯&nbsp;I'm currently deepen and learning Docker.<br>
 <!-- &nbsp;🚀&nbsp;I completed the <a href= "https://github.com/pablohs1986/100-days-of-code"> #100DaysOfCode Challenge</a>. -->
 
 ### 👅&nbsp;Languages
