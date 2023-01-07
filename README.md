@@ -1,6 +1,6 @@
 <h1>Hello, World! I'm Pablo Herrero&nbsp;👋</h1>
 
-&nbsp;💼&nbsp;Developer at <a href= "https://www.hpecds.com/es/">HPE CDS</a>.<br>
+&nbsp;💼&nbsp;Front-end developer at <a href= "https://www.hpecds.com/es/">HPE CDS</a>.<br>
 &nbsp;👨‍💻&nbsp;I learned to code in 2019.<br>
 &nbsp;🎓&nbsp;I studied Cross-platform Application Development at <a href = "http://www.iesjuanjosecalvomiguel.es/index.php?option=com_content&view=article&id=92&Itemid=478"> IES Juan José Calvo Miguel</a> (Asturias).<br>
 &nbsp;🎯&nbsp;I'm currently deepen and learning Docker.<br>
